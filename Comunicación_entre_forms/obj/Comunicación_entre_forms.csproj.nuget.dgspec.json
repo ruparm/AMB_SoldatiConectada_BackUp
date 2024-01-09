@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Soldati Conectada\\Desktop\\Visual\\Proyecto_ado\\Comunicación_entre_forms\\Comunicación_entre_forms.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Soldati Conectada\\Desktop\\Visual\\Proyecto_ado\\Comunicación_entre_forms\\Comunicación_entre_forms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Soldati Conectada\\Desktop\\Visual\\Proyecto_ado\\Comunicación_entre_forms\\Comunicación_entre_forms.csproj",
+        "projectName": "Comunicación_entre_forms",
+        "projectPath": "C:\\Users\\Soldati Conectada\\Desktop\\Visual\\Proyecto_ado\\Comunicación_entre_forms\\Comunicación_entre_forms.csproj",
+        "packagesPath": "C:\\Users\\Soldati Conectada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Soldati Conectada\\Desktop\\Visual\\Proyecto_ado\\Comunicación_entre_forms\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Soldati Conectada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Soldati Conectada\\Desktop\\Visual\\Proyecto_ado\\Proyecto_Sistema_de_Gestion\\Proyecto_Sistema_de_Gestion.csproj": {
+                "projectPath": "C:\\Users\\Soldati Conectada\\Desktop\\Visual\\Proyecto_ado\\Proyecto_Sistema_de_Gestion\\Proyecto_Sistema_de_Gestion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Chart.Mvc": {
+              "target": "Package",
+              "version": "[1.0.0.2, )"
+            },
+            "CircularProgressBar": {
+              "target": "Package",
+              "version": "[2.8.0.16, )"
+            },
+            "Microsoft.Chart.Controls": {
+              "target": "Package",
+              "version": "[4.7.2046, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Soldati Conectada\\Desktop\\Visual\\Proyecto_ado\\Proyecto_Sistema_de_Gestion\\Proyecto_Sistema_de_Gestion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Soldati Conectada\\Desktop\\Visual\\Proyecto_ado\\Proyecto_Sistema_de_Gestion\\Proyecto_Sistema_de_Gestion.csproj",
+        "projectName": "Proyecto_Sistema_de_Gestion",
+        "projectPath": "C:\\Users\\Soldati Conectada\\Desktop\\Visual\\Proyecto_ado\\Proyecto_Sistema_de_Gestion\\Proyecto_Sistema_de_Gestion.csproj",
+        "packagesPath": "C:\\Users\\Soldati Conectada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Soldati Conectada\\Desktop\\Visual\\Proyecto_ado\\Proyecto_Sistema_de_Gestion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Soldati Conectada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Chart.Mvc": {
+              "target": "Package",
+              "version": "[1.0.0.2, )"
+            },
+            "Microsoft.Chart.Controls": {
+              "target": "Package",
+              "version": "[4.7.2046, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

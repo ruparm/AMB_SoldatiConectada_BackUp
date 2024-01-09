@@ -1,0 +1,12 @@
+C:\Users\Soldati Conectada\Desktop\Visual\Proyecto_ado\Proyecto_Sistema_de_Gestion\bin\Debug\net6.0\Proyecto_Sistema_de_Gestion.deps.json
+C:\Users\Soldati Conectada\Desktop\Visual\Proyecto_ado\Proyecto_Sistema_de_Gestion\bin\Debug\net6.0\Proyecto_Sistema_de_Gestion.dll
+C:\Users\Soldati Conectada\Desktop\Visual\Proyecto_ado\Proyecto_Sistema_de_Gestion\bin\Debug\net6.0\Proyecto_Sistema_de_Gestion.pdb
+C:\Users\Soldati Conectada\Desktop\Visual\Proyecto_ado\Proyecto_Sistema_de_Gestion\obj\Debug\net6.0\Proyecto_Sistema_de_Gestion.csproj.AssemblyReference.cache
+C:\Users\Soldati Conectada\Desktop\Visual\Proyecto_ado\Proyecto_Sistema_de_Gestion\obj\Debug\net6.0\Proyecto_Sistema_de_Gestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soldati Conectada\Desktop\Visual\Proyecto_ado\Proyecto_Sistema_de_Gestion\obj\Debug\net6.0\Proyecto_Sistema_de_Gestion.AssemblyInfoInputs.cache
+C:\Users\Soldati Conectada\Desktop\Visual\Proyecto_ado\Proyecto_Sistema_de_Gestion\obj\Debug\net6.0\Proyecto_Sistema_de_Gestion.AssemblyInfo.cs
+C:\Users\Soldati Conectada\Desktop\Visual\Proyecto_ado\Proyecto_Sistema_de_Gestion\obj\Debug\net6.0\Proyecto_Sistema_de_Gestion.csproj.CoreCompileInputs.cache
+C:\Users\Soldati Conectada\Desktop\Visual\Proyecto_ado\Proyecto_Sistema_de_Gestion\obj\Debug\net6.0\Proyecto_Sistema_de_Gestion.dll
+C:\Users\Soldati Conectada\Desktop\Visual\Proyecto_ado\Proyecto_Sistema_de_Gestion\obj\Debug\net6.0\refint\Proyecto_Sistema_de_Gestion.dll
+C:\Users\Soldati Conectada\Desktop\Visual\Proyecto_ado\Proyecto_Sistema_de_Gestion\obj\Debug\net6.0\Proyecto_Sistema_de_Gestion.pdb
+C:\Users\Soldati Conectada\Desktop\Visual\Proyecto_ado\Proyecto_Sistema_de_Gestion\obj\Debug\net6.0\ref\Proyecto_Sistema_de_Gestion.dll
